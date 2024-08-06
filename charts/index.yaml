@@ -3,12 +3,12 @@ entries:
   tainter:
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2024-08-06T11:53:42.240867+02:00"
+    created: "2024-08-06T12:07:44.079715+02:00"
     description: A controller that taints nodes automatically
-    digest: 217cc68d62a5981d41edeb0b3961460d4fec7e35afbfd15582962840e2a4663d
+    digest: 936109ab72a980a44d5ed6f69dcf4e47761155a89efc56375e271e76a758d033
     name: tainter
     type: application
     urls:
     - tainter-0.1.4.tgz
     version: 0.1.4
-generated: "2024-08-06T11:53:42.239284+02:00"
+generated: "2024-08-06T12:07:44.078553+02:00"
