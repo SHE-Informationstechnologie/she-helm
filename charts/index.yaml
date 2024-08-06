@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  tainter:
+  - apiVersion: v2
+    appVersion: 0.1.4
+    created: "2024-08-06T11:53:42.240867+02:00"
+    description: A controller that taints nodes automatically
+    digest: 217cc68d62a5981d41edeb0b3961460d4fec7e35afbfd15582962840e2a4663d
+    name: tainter
+    type: application
+    urls:
+    - tainter-0.1.4.tgz
+    version: 0.1.4
+generated: "2024-08-06T11:53:42.239284+02:00"
